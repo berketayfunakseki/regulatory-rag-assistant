@@ -1,0 +1,12 @@
+Sample Policy Document (Fictional)
+
+Purpose:
+This document describes a fictional compliance policy for a company operating in the EU.
+
+Key points:
+1) Minimize collection of personal data to what is strictly necessary.
+2) Store customer data securely and restrict access to authorized personnel only.
+3) Keep an audit trail of data access and changes.
+4) Inform users transparently about what data is collected and why.
+
+Note: This file is included only for demonstration and testing.
