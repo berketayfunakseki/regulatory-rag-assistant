@@ -1,5 +1,7 @@
 # Regulatory RAG Assistant
 
+[![CI](https://github.com/berketayfunakseki/regulatory-rag-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/berketayfunakseki/regulatory-rag-assistant/actions/workflows/ci.yml)
+
 An end-to-end Retrieval-Augmented Generation system for querying regulatory documents. Ingests PDFs and text files, builds a semantic index, and lets you search or ask questions through a REST API or a Streamlit UI.
 
 ## Pipeline
